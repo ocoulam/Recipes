@@ -1,5 +1,5 @@
 # recipes
-GitHub repository for Odin Project 1. For more info: https://www.theodinproject.com/about
+For more info: https://www.theodinproject.com/about
 
 ## Sources for recipes -
 Sloppy joe's: https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/
